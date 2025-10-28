@@ -8,16 +8,24 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    <p>{{ site.description }}</p>
-    <nav>
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
-        <li><a href="{{ '/servicios/' | relative_url }}">Servicios</a></li>
-        <li><a href="{{ '/contacto/' | relative_url }}">Contacto</a></li>
-      </ul>
-    </nav>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/header-logo.svg' | relative_url }}" alt="{{ site.title }}" class="site-logo">
+        <div class="brand-text">
+          <h1 class="site-title">{{ site.title }}</h1>
+          <p class="site-tagline">{{ site.description }}</p>
+        </div>
+      </a>
+
+      <nav class="site-nav" aria-label="Navegación principal">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+          <li><a href="{{ '/servicios/' | relative_url }}">Servicios</a></li>
+          <li><a href="{{ '/contacto/' | relative_url }}">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
     <hr>
   </header>
 
