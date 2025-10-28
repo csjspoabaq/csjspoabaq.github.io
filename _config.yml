@@ -1,0 +1,6 @@
+title: "Centro de Servicios Judiciales - SPOA Barranquilla"
+description: "Página alterna del Centro de Servicios Judiciales del SPOA de Barranquilla"
+baseurl: ""
+url: "https://csjspoabaq.github.io"
+theme: jekyll-theme-cayman
+markdown: kramdown
