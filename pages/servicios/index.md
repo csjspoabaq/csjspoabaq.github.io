@@ -23,4 +23,4 @@ Para más información sobre cada servicio, edita esta página y añade seccione
 
 ---
 
-[Ir atras]({{ 'pages/servicios/' | relative_url }})
+[Volver al inicio]({{ '/' | relative_url }})
