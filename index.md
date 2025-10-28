@@ -13,5 +13,5 @@ Esta página mínima garantiza la compatibilidad con Jekyll y GitHub Pages. Edit
 
 Más recursos:
 
-- [Contacto](#)
-- [Servicios](#)
+- [Servicios]({{ '/servicios/' | relative_url }})
+- [Contacto]({{ '/contacto/' | relative_url }})
