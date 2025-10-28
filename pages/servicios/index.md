@@ -18,7 +18,7 @@ Para más información sobre cada servicio, edita esta página y añade seccione
 
 ### Otros servicios
 
-[Consulta de procesos]({{ 'consulta_procesos.md' | relative_url }})
+[Consulta de procesos]({{ 'consulta_procesos' | relative_url }})
 
 
 ---
