@@ -20,7 +20,6 @@ Para más información sobre cada servicio, edita esta página y añade seccione
 
 [Consulta de procesos]({{ 'pages/servicios/consulta_procesos' | relative_url }})
 
-
 ---
 
 [Volver al inicio]({{ '/' | relative_url }})
