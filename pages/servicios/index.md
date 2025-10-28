@@ -22,7 +22,7 @@ Para más información sobre cada servicio, edita esta página y añade seccione
 <iframe
   id="inlineFrameExample"
   title="Inline Frame Example"
-  width="auto"
-  height="auto"
+  width="100%"
+  height="100%"
   src="https://www.appsheet.com/start/e312339e-971c-4689-8e3e-f22143deb7c6">
 </iframe>
