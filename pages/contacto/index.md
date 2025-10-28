@@ -13,12 +13,11 @@ Puedes comunicarte con el Centro de Servicios Judiciales - SPOA Barranquilla a t
 
 ### Teléfonos
 
- **Atención al usuario**: +57 310 890 5481 - +57 310 890 5484
- **Sistemas y virtualidad**: +57 310 890 5287 - +57 310 890 5157
- **Audiencias preliminares inmediatas**: +57 310 890 5255 - +57 310 890 5283 - +57 315 569 6895
- **Programación de audiencias preliminares**: +57 316 249 4168 - +57 317 368 4287 - +57 316 522 4256
+ **Atención al usuario**: +57 310 890 5481 - +57 310 890 5484\
+ **Sistemas y virtualidad**: +57 310 890 5287 - +57 310 890 5157\
+ **Audiencias preliminares inmediatas**: +57 310 890 5255 - +57 310 890 5283 - +57 315 569 6895\
+ **Programación de audiencias preliminares**: +57 316 249 4168 - +57 317 368 4287 - +57 316 522 4256\
  **Remisión de proceso a Ejecución de Penas**: +57 310 890 5461
-
 
 ### Correos electronicos
 
