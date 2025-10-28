@@ -16,13 +16,11 @@ Para más información sobre cada servicio, edita esta página y añade seccione
 
 ---
 
+### Otros servicios
+
+[Consulta de procesos]({{ 'consulta_procesos.md' | relative_url }})
+
+
+---
+
 [Volver al inicio]({{ '/' | relative_url }})
-
-
-<iframe
-  id="inlineFrameExample"
-  title="Inline Frame Example"
-  width="100%"
-  height="800px"
-  src="https://consultaprocesos.ramajudicial.gov.co/procesos/Index">
-</iframe>
