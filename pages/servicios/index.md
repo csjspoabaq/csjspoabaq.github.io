@@ -1,5 +1,5 @@
 ---
-layout: sidebar-right
+layout: default
 
 title: "Servicios"
 ---
