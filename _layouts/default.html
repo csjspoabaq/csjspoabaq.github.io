@@ -29,23 +29,24 @@
     </div>
     <hr>
   </header>
-
-  <main class="main-content">
-    {{ content }}
-  </main>
-    <aside class="sidebar">
-      <h2>Sistemas de información</h2>
-      <ul>
-        <li><a target="_blank" href="{{ "https://sites.google.com/view/reparto-diario-audiencias?usp=sharing" | relative_url }}">Reparto diario de audiencias</a></li>
-        <li><a target="_blank" href="{{ "https://sites.google.com/view/repartoconocimientos?usp=sharing" | relative_url }}">Reparto a Juzgados de Conocimiento</a></li>
-        <li><a target="_blank" href="{{ "https://sites.google.com/view/repartosemana?usp=sharing" | relative_url }}">Reparto en dia de semana</a></li>
-        <li><a target="_blank" href="{{ "https://sites.google.com/view/repartofdsydisp?usp=sharing" | relative_url }}">Reparto en fin de semana</a></li>
-        <li><a target="_blank" href="{{ "https://sites.google.com/view/agendar-aud-estaciones?usp=sharing" | relative_url }}">Aganda de audiencias en estaciones de policia</a></li>
-      </ul>
-    </aside>
-  <footer>
-    <hr>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
+<div class="container">
+    <main class="main-content">
+      {{ content }}
+    </main>
+      <aside class="sidebar">
+        <h2>Sistemas de información</h2>
+        <ul>
+          <li><a target="_blank" href="{{ "https://sites.google.com/view/reparto-diario-audiencias?usp=sharing" | relative_url }}">Reparto diario de audiencias</a></li>
+          <li><a target="_blank" href="{{ "https://sites.google.com/view/repartoconocimientos?usp=sharing" | relative_url }}">Reparto a Juzgados de Conocimiento</a></li>
+          <li><a target="_blank" href="{{ "https://sites.google.com/view/repartosemana?usp=sharing" | relative_url }}">Reparto en dia de semana</a></li>
+          <li><a target="_blank" href="{{ "https://sites.google.com/view/repartofdsydisp?usp=sharing" | relative_url }}">Reparto en fin de semana</a></li>
+          <li><a target="_blank" href="{{ "https://sites.google.com/view/agendar-aud-estaciones?usp=sharing" | relative_url }}">Aganda de audiencias en estaciones de policia</a></li>
+        </ul>
+      </aside>
+    <footer>
+      <hr>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </footer>
+ </div> 
 </body>
 </html>
