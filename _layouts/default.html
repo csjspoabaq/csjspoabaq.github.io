@@ -6,6 +6,47 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    .container {
+      display: flex;
+      flex-direction: row;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .main-content {
+      flex: 3;
+      padding: 2em;
+    }
+    .sidebar {
+      flex: 1;
+      padding: 2em;
+      background: #f9f9f9;
+      border-left: 1px solid #e0e0e0;
+      min-width: 220px;
+    }
+    .sidebar h2 {
+      font-size: 1.1em;
+      margin-bottom: 1em;
+    }
+    .sidebar ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .sidebar ul li {
+      margin-bottom: 0.75em;
+    }
+    .sidebar a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    .sidebar a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 800px) {
+      .container { flex-direction: column; }
+      .sidebar { border-left: none; border-top: 1px solid #e0e0e0; }
+    }
+  </style>
 </head>
 <body>
   <header class="site-header">
@@ -32,7 +73,16 @@
   <main>
     {{ content }}
   </main>
-
+    <aside class="sidebar">
+      <h2>Sistemas de información</h2>
+      <ul>
+        <li><a target="_blank" href="{{ "https://sites.google.com/view/reparto-diario-audiencias?usp=sharing" | relative_url }}">Reparto diario de audiencias</a></li>
+        <li><a target="_blank" href="{{ "https://sites.google.com/view/repartoconocimientos?usp=sharing" | relative_url }}">Reparto a Juzgados de Conocimiento</a></li>
+        <li><a target="_blank" href="{{ "https://sites.google.com/view/repartosemana?usp=sharing" | relative_url }}">Reparto en dia de semana</a></li>
+        <li><a target="_blank" href="{{ "https://sites.google.com/view/repartofdsydisp?usp=sharing" | relative_url }}">Reparto en fin de semana</a></li>
+        <li><a target="_blank" href="{{ "https://sites.google.com/view/agendar-aud-estaciones?usp=sharing" | relative_url }}">Aganda de audiencias en estaciones de policia</a></li>
+      </ul>
+    </aside>
   <footer>
     <hr>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
