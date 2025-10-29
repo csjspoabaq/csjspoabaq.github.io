@@ -123,3 +123,44 @@ footer {
   .site-nav ul { flex-wrap: wrap; gap: 0.5rem; }
   .site-logo { max-height: 48px; }
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.main-content {
+  flex: 3;
+  padding: 2em;
+}
+.sidebar {
+  flex: 1;
+  padding: 2em;
+  background: #f9f9f9;
+  border-left: 1px solid #e0e0e0;
+  min-width: 220px;
+}
+.sidebar h2 {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+.sidebar ul li {
+  margin-bottom: 0.75em;
+}
+.sidebar a {
+  color: #007acc;
+  text-decoration: none;
+}
+.sidebar a:hover {
+  text-decoration: underline;
+}
+@media (max-width: 800px) {
+  .container { flex-direction: column; }
+  .sidebar { border-left: none; border-top: 1px solid #e0e0e0; }
+}
