@@ -16,7 +16,8 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 - Atención presencial en el Centro de Servicios.
 - Solicitud de actas de audiencia.
 - Información de audiencias inmediata, programadas, escrito de acusación, y remisiones de proesos a CS-EPMS. 
-***
+
+---
 
 ## Reparto y Asignación
 ### Reparto de Audiencias Preliminares Inmediatas
@@ -43,7 +44,8 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 
 - Solicitud actas de reparto a jueces de conocimiento.
 - Constancias de presentación de escritos de acusación.
-***
+
+---
 
 ## Ejecución de Penas
 ### Remisión de procesos al Centro de Servicios de Ejecución de Penas y Medidas de seguridad
@@ -65,7 +67,8 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 **Correo**: [lpadillr@cendoj.ramajudicial.gov.co](mailto:lpadillr@cendoj.ramajudicial.gov.co)
 
 - Información de condenas con beneficios, libertades y otros relacionados.
-***
+
+---
 
 ## Titulos judiciales
 ### Titulos judiciales
@@ -73,7 +76,8 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 **Correo**: [lpadillr@cendoj.ramajudicial.gov.co](mailto:lpadillr@cendoj.ramajudicial.gov.co)
 
 - Información de títulos judiciales, causiones y otros relacionados. 
-***
+
+---
 
 ## Comunicaciones
 ### Solicitudes Generales
@@ -85,7 +89,8 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 **Correo**:  [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
 - Notificaciones y vinculaciones a acciones constitucionales por parte de despachos judiciales -Tutelas, Habeas Corpus-.
 - Peticiones y otras consultas relacionadas con acciones constitucionales.
-***
+
+---
 
 ## Sistemas y Archivo Tecnológico
 ### Sistemas, virtualidad y archivo tecnologico
@@ -95,7 +100,8 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 - Solicita audios de audiencia.
 - Actas de audiencia.
 - Agendamiento de salas para audiencias presenciales.
-***
+
+---
 
 ## Coordinación administrativa
 ### Sistemas, virtualidad y achivo tecnologico
@@ -112,6 +118,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 - Solicitudes y otros relacionados con el Sistema de Gestion SIGCMA de la Jurisdicción Penal en Barranquilla.
 - Sensibilización en Sistemas de Gestión para los Juzgados Penales de Barranquilla.
 - Acompañamiento en Sistemas de Gestión para los Juzgados Penales de Barranquilla.
-***
+
+---
 
 [Volver al inicio]({{ '/' | relative_url }})
