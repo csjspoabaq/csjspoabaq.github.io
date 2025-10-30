@@ -92,7 +92,7 @@ body {
 /*inicio */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  /*background-color: #333;*/
 }
 
 /* Navigation links */
@@ -117,7 +117,7 @@ body {
   border: none;
   outline: none;
   color: white;
-  padding: 14px 16px;
+  /*padding: 14px 16px;*/
   background-color: inherit;
   font-family: inherit;
   margin: 0;
@@ -125,7 +125,7 @@ body {
 
 /* Add a red background color to navigation links on hover */
 .navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: #003f75;
+  background-color: #ccc;
 }
 
 /* Style the subnav content - positioned absolute */
