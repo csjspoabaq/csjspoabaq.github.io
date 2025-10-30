@@ -87,7 +87,7 @@ body {
 .site-nav a:hover,
 .site-nav a:focus,
 .subnav:hover .subnavbtn{
-  background: rgba(255,255,255,0.08);
+  /*background: rgba(255,255,255,0.08);*/
   outline: none;
 }
 /*inicio */
@@ -117,6 +117,7 @@ body {
   font-size: 16px;
   font-weight: bold;
   border: none;
+  border-radius: 4px;
   outline: none;
   color: white;
   padding: 14px 16px;
@@ -134,7 +135,7 @@ body {
 .subnav-content {
   display: none;
   position: absolute;
-  left: 0;
+  right: 0;
   background-color: #003f75;
   width: 30%;
   z-index: 1;
