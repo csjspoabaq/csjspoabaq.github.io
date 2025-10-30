@@ -85,7 +85,8 @@ body {
 }
 
 .site-nav a:hover,
-.site-nav a:focus {
+.site-nav a:focus,
+.subnav:hover .subnavbtn{
   background: rgba(255,255,255,0.08);
   outline: none;
 }
@@ -123,16 +124,16 @@ body {
   margin: 0;
 }
 
-/* Add a red background color to navigation links on hover */
+/* Add a red background color to navigation links on hover 
 .navbar a:hover, .subnav:hover .subnavbtn {
   background-color: #ccc;
-}
+}*/
 
 /* Style the subnav content - positioned absolute */
 .subnav-content {
   display: none;
   position: absolute;
-  right: 0;
+  left: 0;
   background-color: #003f75;
   width: 100%;
   z-index: 1;
