@@ -99,6 +99,7 @@ body {
 .navbar a {
   float: left;
   font-size: 16px;
+  font-weight: bold;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -124,15 +125,15 @@ body {
 
 /* Add a red background color to navigation links on hover */
 .navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: red;
+  background-color: #003f75;
 }
 
 /* Style the subnav content - positioned absolute */
 .subnav-content {
   display: none;
   position: absolute;
-  left: 0;
-  background-color: red;
+  right: 0;
+  background-color: #003f75;
   width: 100%;
   z-index: 1;
 }
@@ -155,6 +156,7 @@ body {
   display: block;
 }
 /* fin */
+
 /* Accent examples: buttons or links */
 a.cta {
   background: var(--accent-yellow);
