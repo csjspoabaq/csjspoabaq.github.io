@@ -133,8 +133,10 @@ body {
 
 /* Style the subnav content - positioned absolute */
 .subnav-content {
+  display: flex;
   flex-direction: column;
-  display: none;
+  flex-wrap: wrap;
+  align-content: flex-start;
   position: absolute;
   right: 0;
   background-color: #003f75;
