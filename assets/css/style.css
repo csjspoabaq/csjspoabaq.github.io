@@ -97,7 +97,7 @@ body {
 }
 
 /* Navigation links */
-.navbar a, .subnav .subnavbtn{
+.navbar a {
   float: left;
   font-size: 16px;
   font-weight: bold;
@@ -112,9 +112,10 @@ body {
   overflow: hidden;
 }
 
-/* Subnav button 
+/* Subnav button */
 .subnav .subnavbtn {
   font-size: 16px;
+  font-weight: bold;
   border: none;
   outline: none;
   color: white;
@@ -122,7 +123,7 @@ body {
   background-color: inherit;
   font-family: inherit;
   margin: 0;
-}*/
+}
 
 /* Add a red background color to navigation links on hover 
 .navbar a:hover, .subnav:hover .subnavbtn {
