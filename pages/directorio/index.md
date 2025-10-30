@@ -14,7 +14,8 @@ El Centro de Servicios Judiciales - SPOA Barranquilla ofrece los siguientes serv
   id="ifDirectorio"
   title="Consulta de Procesos"
   width="100%"
-  height="800px">
+  height="800px"
+  frameborder=0 sandbox>
 </iframe>
 <script>
   document.getElementById("ifDirectorio").src = "https://www.appsheet.com/start/67745dfe-b8a8-4c8e-a6f0-1e876a8e7e70";
