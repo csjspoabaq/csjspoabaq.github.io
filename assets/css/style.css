@@ -137,7 +137,7 @@ body {
   position: absolute;
   right: 0;
   background-color: #003f75;
-  width: 30%;
+  max-width: 20%;
   z-index: 1;
 }
 
