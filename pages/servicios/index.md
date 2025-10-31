@@ -16,22 +16,15 @@ Para más información sobre los servicios, puedes contactar directamente con lo
 
 ---
 
-### Enlaces de intéres
-
-[Rama Judicial](https://www.ramajudicial.gov.co/)
-[Consulta de procesos]({{ 'pages/servicios/consulta_procesos' | relative_url }})
-
----
-
 ## Preguntas, quejas, reclamos, solicitudes y felicitaciones entre otras encuentas
 
-[PQRSF](https://forms.office.com/r/MtpidGDsFp)
-[Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
+- [PQRSF](https://forms.office.com/r/MtpidGDsFp)
+- [Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
 
 ---
 
 ## Canal de Denuncias - SGAS
-[Canal de Denuncias - Sistema de Gestión Antisoborno](https://www.ramajudicial.gov.co/portal/atencion-al-usuario/pqr)
+- [Canal de Denuncias - Sistema de Gestión Antisoborno](https://www.ramajudicial.gov.co/portal/atencion-al-usuario/pqr)
 
 ---
 
