@@ -11,8 +11,8 @@ Puedes comunicarte con el Centro de Servicios Judiciales - SPOA Barranquilla a t
 - Dirección: Calle 38 #44-80 Edificio telecom Piso 2, Barranquilla
 
 
-### :telephone_receiver: Teléfonos
-
+### Teléfonos :telephone_receiver:
+:telephone_receiver:
  - **Atención al usuario**: 310 890 5481 - 310 890 5484\
  - **Sistemas y virtualidad**: 310 890 5287 - 310 890 5157\
  - **Audiencias preliminares inmediatas**: 310 890 5255 - 310 890 5283 - 315 569 6895\
