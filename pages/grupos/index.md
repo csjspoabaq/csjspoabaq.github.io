@@ -13,9 +13,9 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 **Correo**: [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
 
 - Atención canal virtual del Centro de Servicios.
-- :information_desk_person: Atención presencial en el Centro de Servicios.
-- :page_with_curl: Solicitud de actas de audiencia.
-- :notebook: Información de audiencias inmediata, programadas, escrito de acusación, y remisiones de proesos a CS-EPMS. 
+- Atención presencial en el Centro de Servicios.
+- Solicitud de actas de audiencia.
+- Información de audiencias inmediata, programadas, escrito de acusación, y remisiones de proesos a CS-EPMS. 
 
 ---
 
