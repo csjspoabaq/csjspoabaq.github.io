@@ -7,19 +7,19 @@ title: "Grupos Internos Funcionales"
 
 A continuación se listan los Grupos Internos Funcionales del Centro de Servicios Judiciales - SPOA Barranquilla:
 
-## Atención al usuario
+## :information_desk_person: Atención al usuario
 ### Atención al usuario
 
 **Correo**: [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
 
 - Atención canal virtual del Centro de Servicios.
-- Atención presencial en el Centro de Servicios.
-- Solicitud de actas de audiencia.
-- Información de audiencias inmediata, programadas, escrito de acusación, y remisiones de proesos a CS-EPMS. 
+- :information_desk_person: Atención presencial en el Centro de Servicios.
+- :page_with_curl: Solicitud de actas de audiencia.
+- :notebook: Información de audiencias inmediata, programadas, escrito de acusación, y remisiones de proesos a CS-EPMS. 
 
 ---
 
-## Reparto y Asignación
+## :books: Reparto y Asignación
 ### Reparto de Audiencias Preliminares Inmediatas
 
 **Correo**: [repartospoabquilla@cendoj.ramajudicial.gov.co](mailto:repartospoabquilla@cendoj.ramajudicial.gov.co)
@@ -47,7 +47,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 
 ---
 
-## Ejecución de Penas
+## :heavy_check_mark: Ejecución de Penas
 ### Remisión de procesos al Centro de Servicios de Ejecución de Penas y Medidas de seguridad
 
 **Correo**: [reprocseradmjepmsbquilla@cendoj.ramajudicial.gov.co](mailto:reprocseradmjepmsbquilla@cendoj.ramajudicial.gov.co)
@@ -70,7 +70,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 
 ---
 
-## Titulos judiciales
+## :dollar: Titulos judiciales
 ### Titulos judiciales
 
 **Correo**: [lpadillr@cendoj.ramajudicial.gov.co](mailto:lpadillr@cendoj.ramajudicial.gov.co)
@@ -79,7 +79,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 
 ---
 
-## Comunicaciones
+## :mega: Comunicaciones
 ### Solicitudes Generales
 **Correo**:  [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
 
@@ -92,7 +92,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 
 ---
 
-## Sistemas y Archivo Tecnológico
+## :computer: Sistemas y Archivo Tecnológico
 ### Sistemas, virtualidad y archivo tecnologico
 
 **Correo**: [siscsjspoabaq@cendoj.ramajudicial.gov.co](mailto:siscsjspoabaq@cendoj.ramajudicial.gov.co)
@@ -103,7 +103,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 
 ---
 
-## Coordinación administrativa
+## :bulb: Coordinación administrativa
 ### Sistemas, virtualidad y achivo tecnologico
 
 **Correo**: [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
