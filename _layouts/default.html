@@ -9,43 +9,14 @@
   <link href="https://www.ramajudicial.gov.co/o/csj-main-theme/images/favicon.ico" rel="icon" type="image/x-icon"/> 
 </head>
 <body>
-  <header class="site-header">
-    <div class="header-inner">
-      <a class="brand" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/images/header-logo.png' | relative_url }}" alt="{{ site.title }}" class="site-logo">
-        <div class="brand-text">
-          <h1 class="site-title">{{ site.title }}</h1>
-          <p class="site-tagline">{{ site.description }}</p>
-        </div>
-      </a>
-
-      <nav class="site-nav navbar" aria-label="Navegación principal">
-        <ul>
-          <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
-          <li><a href="{{ '/pages/servicios/' | relative_url }}">Servicios</a></li>
-          <li><div class="subnav">
-              <button class="subnavbtn">Información<i class="fa fa-caret-down"></i></button>
-                <div class="subnav-content">
-                  <a href="{{ '/pages/contacto/' | relative_url }}">Contactos</a>
-                  <a href="{{ '/pages/directorio/' | relative_url }}">Directorio judicial</a>
-                  <a href="{{ '/pages/grupos/' | relative_url }}">Grupos Funcionales</a>
-                </div>
-            </div></li>
-        </ul>
-      </nav>
-    </div>
-    <hr>
-  </header>
+{% include header.html %}
 <div class="container">
     <main class="main-content">
       {{ content }}
     </main>
     {% include sidebar.html %}
  </div> 
-  <footer>
-    <hr>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
 
+{% include footer.html %}
 </body>
 </html>

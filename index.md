@@ -13,8 +13,21 @@ Esta página mínima garantiza la presencia en linea del Centro de Servicios, po
 
 Para más información visite la pagina de 
 
-- [Servicios]({{ '/pages/servicios/' | relative_url }})
+- [Servicios]({{ '/pages/servicios' | relative_url }})
 
 O para contactarnos
 
-- [Contacto]({{ '/pages/contacto/' | relative_url }})
+- [Contacto]({{ '/pages/contacto' | relative_url }})
+
+
+
+---
+### Articulos
+---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
