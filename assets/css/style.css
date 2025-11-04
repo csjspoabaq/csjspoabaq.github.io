@@ -137,13 +137,13 @@ body {
   position: absolute;
   right: 0;
   background-color: #003f75;
-  width: 80%;
+  width: 100%;
   z-index: 1;
 }
 
 /* Style the subnav links */
 .subnav-content a {
-  float: left;
+  float: right;
   color: white;
   text-decoration: none;
 }
