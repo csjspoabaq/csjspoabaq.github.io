@@ -27,7 +27,7 @@ O para contactarnos
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}<span> - {{post.date |  date:'%Y-%m-%d' }}</span></a>
     </li>
   {% endfor %}
 </ul>

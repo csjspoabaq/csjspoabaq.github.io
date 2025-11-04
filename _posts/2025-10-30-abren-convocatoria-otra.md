@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abren convocatoria para los interesados en integrar la lista de peritos de la Jurisdicción de lo Contencioso Administrativo"
+title: "Abren convocatoria para los interesados en integrar la lista de peritos de la Otra"
 category: Otro
 tags:
     - articulo
@@ -17,6 +17,3 @@ Bogotá, 1 de noviembre de 2025 (@JudicaturaCSJ). El Consejo Superior de la Judi
 
 El cargo de perito, como auxiliar de la justicia, es un oficio público ocasional que debe ser desempeñado por personas idóneas, imparciales, de conducta intachable y excelente reputación. Cada cargo requiere los conocimientos, la idoneidad, la experiencia y la disponibilidad para rendir el dictamen en la respectiva materia.
 
-Los interesados podrán inscribirse del 1 al 30 de noviembre de 2025 en tres niveles de formación: profesional, técnico y/o tecnológico y experto. Se tendrá en cuenta la formación académica, capacidad, experiencia e idoneidad de los aspirantes.
-
-Una vez cerrada la convocatoria, la URNA tendrá 60 días hábiles para verificar los requisitos exigidos para el desempeño del cargo y, posteriormente, conformará la lista de peritos de la Jurisdicción de lo Contencioso Administrativo, la cual estará a disposición del público en general y de los despachos judiciales del país en el sitio web del Sistema de Información del Registro Nacional de Abogados y Auxiliares de la Justicia.
