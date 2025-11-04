@@ -11,7 +11,7 @@ Puedes comunicarte con el Centro de Servicios Judiciales - SPOA Barranquilla a t
 - Dirección: Calle 38 #44-80 Edificio telecom Piso 2, Barranquilla
 
 
-### Teléfonos
+### :telephone_receiver: Teléfonos
 
  - **Atención al usuario**: 310 890 5481 - 310 890 5484\
  - **Sistemas y virtualidad**: 310 890 5287 - 310 890 5157\
@@ -19,7 +19,7 @@ Puedes comunicarte con el Centro de Servicios Judiciales - SPOA Barranquilla a t
  - **Programación de audiencias preliminares**: 316 249 4168 - 317 368 4287 - 316 522 4256\
  - **Remisión de proceso a Ejecución de Penas**: 310 890 5461
 
-### Correos electronicos
+### :email: Correos electronicos
 
 - **Solicitudes generales**: [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
 - **Recepción de solicitudes de audiencias preliminares inmediatas**: [repartospoabquilla@cendoj.ramajudicial.gov.co](mailto:repartospoabquilla@cendoj.ramajudicial.gov.co)
