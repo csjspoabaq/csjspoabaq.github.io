@@ -17,7 +17,7 @@ title: "SIGCMA - SGAS"
 ## :chart_with_upwards_trend: Planes de Acción
 - [Plan de Acción 2025](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025.xlsx/bbe5a4c1-cbe8-751c-46b1-c3db57edcd10?t=1741019567533)
 
-### :calendar: Seguimientos
+#### :calendar: Seguimientos
 - [1er Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA_I+Trim.xlsx/36be37dc-5b63-2d09-2de3-cfd369bdcb6e?t=1760459034701)
 - [2do Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025_II+Tri.xlsx/16aa424b-cfb9-a8f4-4511-03f0204e8ac5?t=1760459071910)
 - [3er Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025_III+Tri.xlsx/aace118b-13b7-fa4c-bc3c-73aa6219e327?t=1761140497193)
