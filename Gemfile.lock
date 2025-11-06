@@ -316,7 +316,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-coffeescript
   jekyll-gist
-  jekyll-octicons
+  jekyll-octicons (~> 19.8)
   nokogiri (~> 1.11)
 
 BUNDLED WITH
