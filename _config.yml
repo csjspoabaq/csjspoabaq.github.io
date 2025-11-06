@@ -7,6 +7,7 @@ markdown: kramdown
 plugins:
   - jemoji
   - jekyll-octicons
+  - jekyll-github-alerts
 
 jekyll_admin:
   hidden_links:

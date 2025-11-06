@@ -17,7 +17,8 @@ gem "jekyll-coffeescript"
 # A dependency of a custom-plugin inside `_plugins` directory.
 gem "nokogiri", "~> 1.11"
 gem 'jekyll-octicons', "~> 19.8"
+# gem 'jekyll-github-alerts'
 
 
 gem "github-pages", group: :jekyll_plugins
-gem 'jekyll-admin', group: :jekyll_plugins
+# gem 'jekyll-admin', group: :jekyll_plugins
