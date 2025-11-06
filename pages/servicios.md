@@ -18,13 +18,13 @@ Para más información sobre los servicios, puedes contactar directamente con lo
 
 ## Preguntas, quejas, reclamos, solicitudes y felicitaciones entre otras encuentas
 
-- [PQRSF](https://forms.office.com/r/MtpidGDsFp)
-- [Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
+- [:exclamation_question_mark: PQRSF](https://forms.office.com/r/MtpidGDsFp)
+- [:grinning_face: Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
 
 ---
 
 ## Canal de Denuncias - SGAS
-- [Canal de Denuncias - Sistema de Gestión Antisoborno](https://www.ramajudicial.gov.co/portal/atencion-al-usuario/pqr)
+- [:speaking_head: Canal de Denuncias - Sistema de Gestión Antisoborno](https://www.ramajudicial.gov.co/portal/atencion-al-usuario/pqr)
 
 ---
 
