@@ -19,10 +19,10 @@ O para contactarnos
 
 - [Contacto]({{ '/pages/contacto' | relative_url }})
 
-
-
 ---
-### Articulos
+
+
+### Publicaciones
 ---
 <ul>
   {% for post in site.posts %}
