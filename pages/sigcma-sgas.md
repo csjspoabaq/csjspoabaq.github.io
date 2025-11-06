@@ -9,9 +9,9 @@ title: "SIGCMA - SGAS"
 > - Sistemas Integrados de Gestión de la Calidad y Medio Ambiente
 > - Sistema de Gestión Antisoborno
 
-{% octicon goal height:24 class:"right left" aria-label:hi %}
+{% octicon goal-24 height:24 class:"right left" aria-label:hi %}
 
-## {% octicon "goal" %} Plataforma Estratégica
+## {% octicon goal-24 %} Plataforma Estratégica
 - [Misión](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/mision)
 - [Visión](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/vision)
 - [Objetivos de calidad](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/objetivos-de-calidad)
