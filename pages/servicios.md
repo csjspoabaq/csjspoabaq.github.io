@@ -18,8 +18,8 @@ Para más información sobre los servicios, puedes contactar directamente con lo
 
 ## Preguntas, quejas, reclamos, solicitudes y felicitaciones entre otras encuentas
 
-- [:exclamation_question_mark: PQRSF](https://forms.office.com/r/MtpidGDsFp)
-- [:grinning_face: Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
+- [:interrobang: PQRSF](https://forms.office.com/r/MtpidGDsFp)
+- [:heavy_check_mark: Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
 
 ---
 
