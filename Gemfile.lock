@@ -279,7 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
+  jekyll (= 3.10.0)
   jekyll-coffeescript
   jekyll-gist
   jekyll-octicons
