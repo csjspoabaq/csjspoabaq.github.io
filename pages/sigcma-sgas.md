@@ -33,7 +33,7 @@ title: "SIGCMA - SGAS"
 #### :calendar: Seguimientos
 - [1er Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgAgAKzySNgFSqJyZSSnYHqUAfv1sViCxOxmIuXQ8MHcviA?e=RD31PQ)
 - [2do Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgAEnpIqBSOcQoxLbQbkmoaIAQc9lu_S2vk-X_-OJHHpEQ4?e=aEkUjC)
-- [3r Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgANMX0ZwXaZQatxl-aDrGM2AbV4DoxqoR5rN_Myi3QKZTc?e=KpDEnd)
+- [3er Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgANMX0ZwXaZQatxl-aDrGM2AbV4DoxqoR5rN_Myi3QKZTc?e=KpDEnd)
 
 ---
 
@@ -41,6 +41,7 @@ title: "SIGCMA - SGAS"
 
 - [PQRSF](https://forms.office.com/r/MtpidGDsFp)
 - [Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
+- [Compromiso antisoborno](https://forms.office.com/pages/responsepage.aspx?id=mLosYviA80GN9Y65mQFZi4BLcGBxt91JrVdIn9tTRp9UQzBWRE5WMFpJNUFDUzhHRFZJRTJSUEpaWC4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl)
 
 ---
 
