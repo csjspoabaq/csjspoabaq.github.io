@@ -28,7 +28,7 @@ title: "SIGCMA - SGAS"
 ## :clipboard: Matriz de riesgos
 - [Matriz de riesgos 3er trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Matriz%2Bde%2BRiesgos%2BJudiciales%2BBarranquilla_SPOA_2025_III+Trim.xlsx/96412b77-d198-d81c-ad8d-6ca7518476be?t=1761140547077)
 
-## Indicadores
+## :chart_with_upwards_trend: Indicadores
 
 #### :calendar: Seguimientos
 - [1er Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgAgAKzySNgFSqJyZSSnYHqUAfv1sViCxOxmIuXQ8MHcviA?e=RD31PQ)
