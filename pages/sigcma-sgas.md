@@ -16,8 +16,7 @@ title: "SIGCMA - SGAS"
 - [Politica de calidad](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/politica-de-calidad)
 - [Valores](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/valores)
 - [Principios](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/principios)
-
-
+- [**Mapa de procesos**](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/mapa-de-procesos)
 ---
 ## :chart_with_upwards_trend: Planes de Acción
 - [Plan de Acción 2025](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025.xlsx/bbe5a4c1-cbe8-751c-46b1-c3db57edcd10?t=1741019567533)

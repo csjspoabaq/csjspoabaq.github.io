@@ -104,7 +104,7 @@ A continuación se listan los Grupos Internos Funcionales del Centro de Servicio
 ---
 
 ## :bulb: Coordinación administrativa
-### Sistemas, virtualidad y achivo tecnologico
+### Sistemas, virtualidad y archivo tecnologico
 
 **Correo**: [csjspoabaq@cendoj.ramajudicial.gov.co](mailto:csjspoabaq@cendoj.ramajudicial.gov.co)
 
