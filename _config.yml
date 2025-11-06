@@ -17,3 +17,6 @@ jekyll_admin:
     - datafiles
     - configuration
   homepage: "pages"
+
+  liquid:
+      error_mode: warn
