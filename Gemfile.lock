@@ -282,7 +282,7 @@ DEPENDENCIES
   jekyll
   jekyll-coffeescript
   jekyll-gist
-  jekyll-octicons (~> 19.8)
+  jekyll-octicons
   nokogiri (~> 1.11)
 
 BUNDLED WITH
