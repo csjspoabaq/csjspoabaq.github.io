@@ -6,6 +6,7 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jemoji
+  - jekyll-octicons
 
 jekyll_admin:
   hidden_links:
