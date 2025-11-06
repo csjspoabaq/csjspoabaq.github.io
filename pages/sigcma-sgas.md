@@ -5,8 +5,8 @@ title: "SIGCMA - SGAS"
 
 # Sistemas Integrados de Gestión : SIGCMA - SGAS
 
-> Sistemas Integrados de Gestión de la Calidad y Medio Ambiente
-> Sistema de Gestión Antisoborno
+> - Sistemas Integrados de Gestión de la Calidad y Medio Ambiente
+> - Sistema de Gestión Antisoborno
 
 ---
 ## :dart: Plataforma Estratégica
