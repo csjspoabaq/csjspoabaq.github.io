@@ -28,6 +28,7 @@ title: "SIGCMA - SGAS"
 - [2do Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025_II+Tri.xlsx/16aa424b-cfb9-a8f4-4511-03f0204e8ac5?t=1760459071910)
 - [3er Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025_III+Tri.xlsx/aace118b-13b7-fa4c-bc3c-73aa6219e327?t=1761140497193)
 
+---
 ## :clipboard: Matriz de riesgos
 - [Matriz de riesgos 3er trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Matriz%2Bde%2BRiesgos%2BJudiciales%2BBarranquilla_SPOA_2025_III+Trim.xlsx/96412b77-d198-d81c-ad8d-6ca7518476be?t=1761140547077)
 
