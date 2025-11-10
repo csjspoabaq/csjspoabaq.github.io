@@ -1,15 +1,28 @@
 <nav class="site-nav navbar" aria-label="Navegación principal">
     <ul>
         <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
-        <li><a href="{{ '/pages/servicios' | relative_url }}">Servicios</a></li>
-        <li><div class="subnav">
-            <button class="subnavbtn">Información<i class="fa fa-caret-down"></i></button>
-            <div class="subnav-content">
-                <a href="{{ '/pages/contacto' | relative_url }}">Contactos</a>
-                <a href="{{ '/pages/directorio' | relative_url }}">Directorio judicial</a>
-                <a href="{{ '/pages/grupos' | relative_url }}">Grupos Funcionales</a>
+        <li>
+            <!-- <a href="{{ '/pages/servicios' | relative_url }}">Servicios</a></li> -->
+            <div class="subnav">
+                <button class="subnavbtn">Servicios<i class="fa fa-caret-down"></i></button>
+                    <div class="subnav-content">
+                        <a href="{{ '/pages/Ciudadanos' | relative_url }}">Ciudadanos</a>
+                    <a href="{{ '/pages/despachos' | relative_url }}">Despachos judicial</a>
+                </div>
             </div>
-        </div></li>
+        </li>
+        <li>
+            <div class="subnav">
+            <button class="subnavbtn">Información<i class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="{{ '/pages/contacto' | relative_url }}">Contactos</a>
+                    <a href="{{ '/pages/directorio' | relative_url }}">Directorio judicial</a>
+                    <a href="{{ '/pages/grupos' | relative_url }}">Grupos Funcionales</a>
+                </div>
+            </div>
+        </li>
+        
+        
         <li><a href="{{ '/pages/sigcma-sgas' | relative_url }}">SIGCMA/SGAS</a></li>
     </ul>
 </nav>
