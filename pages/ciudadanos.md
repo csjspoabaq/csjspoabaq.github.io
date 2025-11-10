@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Contacto"
+title: "Ciudadanos"
 ---
 
 # :envelope: Contacto

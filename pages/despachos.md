@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Grupos Internos Funcionales"
+title: "Despachos Judiciales"
 ---
 
 # Grupos Internos Funcionales
