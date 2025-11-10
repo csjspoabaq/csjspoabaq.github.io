@@ -5,7 +5,7 @@ title: "Despachos Judiciales"
 
 # Despachos Judiciales del SPOA
 
-A continuacion, encontraras los diferentes servicios virtuales de interes para los despachos judiciales del SPOA:
+A continuacion, encontraras los diferentes servicios virtuales de interes para los despachos judiciales del SPOA o puedes ir a los [servicios para ciudadanos](/pages/ciudadanos.md):
 
 #### Agendamiento de Salas de Audiencias
 
