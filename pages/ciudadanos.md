@@ -45,7 +45,7 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 #### Consulta de grabaciones de audiencias publicas
 
-- <a rel="noopener" target="_blank" href="https://sistemaaudiencias.ramajudicial.gov.co/Grabaciones/public">:eye_speech_bubble: Aplicación web</a>
+- <a rel="noopener" target="_blank" href="https://sistemaaudiencias.ramajudicial.gov.co/Grabaciones/public">:movie_camera: Aplicación web</a>
 
 ---
 
