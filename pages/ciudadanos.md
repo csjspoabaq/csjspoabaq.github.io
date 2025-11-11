@@ -43,7 +43,7 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 #### Vigilancias Administrativas
 
-- <a href="https://vigilancias.ramajudicial.gov.co/inicio" target="_blank">:black_circle: Aplicación web</a>
+- <a href="https://vigilancias.ramajudicial.gov.co/inicio" target="_blank">:eye_speech_bubble: Aplicación web</a>
 
 
 [Volver al inicio]({{ '/' | relative_url }})
