@@ -5,7 +5,7 @@ title: "Ciudadanos"
 
 # :man: Ciudadanos
 
-A continuacion, encontraras los diferentes servicios virtuales de interes para los ciudadanos o puedes ir a los [servicios a despachos judiciales](/pages/despachos.md):
+A continuacion, encontraras los diferentes servicios virtuales de interes para los ciudadanos o puedes ir a los [servicios a despachos judiciales](/pages/despachos):
 
 #### Consulta del reparto diario de audiencias preliminares
 
