@@ -9,32 +9,34 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 #### Consulta del reparto diario de audiencias preliminares
 
-- [:red_circle: Aplicación web](https://sites.google.com/view/reparto-diario-audiencias?usp=sharing)
+- <a rel="noopener" target="_blank" href="https://sites.google.com/view/reparto-diario-audiencias?usp=sharing">:black_circle: Aplicación web</a>
 
 ---
 
 #### Consulta del reparto a juzgados de conocimiento
 
-- [:black_circle: Aplicación web](https://sites.google.com/view/repartoconocimientos?usp=sharing)
+- <a rel="noopener" target="_blank" href="https://sites.google.com/view/repartoconocimientos?usp=sharing">:black_circle: Aplicación web</a>
+
 
 ---
 
 #### Consulta del reparto a juzgados de conocimiento de Soledad
 
-- [:black_circle: Aplicación web](https://www.cdspbaq.info/repartoconocimientosoledad)
+- <a rel="noopener" target="_blank" href="https://www.cdspbaq.info/repartoconocimientosoledad">:black_circle: Aplicación web</a>
+
 
 ---
 
 #### Solicitudes de Audios de audiencias
 
-- [:black_circle: Aplicación web](https://www.cdspbaq.info/repartoconocimientosoledad)
+- <a rel="noopener" target="_blank" href="https://www.cdspbaq.info/repartoconocimientosoledad">:black_circle: Aplicación web</a>
 
 
 ---
 
 #### Programación de Audiencias en Estaciones de Policia
 
-- [:black_circle: Aplicación web](https://www.cdspbaq.info/audienciasprogramadasenestacionesdepolicia)
+- <a rel="noopener" target="_blank" href="https://www.cdspbaq.info/audienciasprogramadasenestacionesdepolicia">:black_circle: Aplicación web</a>
 
 
 ---
@@ -43,7 +45,8 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 #### Vigilancias Administrativas
 
-- <a href="https://vigilancias.ramajudicial.gov.co/inicio" target="_blank">:eye_speech_bubble: Aplicación web</a>
+- <a rel="noopener" target="_blank" href="https://vigilancias.ramajudicial.gov.co/inicio">:eye_speech_bubble: Aplicación web</a>
+
 
 
 [Volver al inicio]({{ '/' | relative_url }})

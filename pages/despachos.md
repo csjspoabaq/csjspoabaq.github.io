@@ -9,14 +9,14 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 #### Agendamiento de Salas de Audiencias
 
-- [:black_circle: Aplicación web](https://www.cdspbaq.info/agendamientosalasdeaudiencia)
+- <a rel="noopener" target="_blank" href="https://www.cdspbaq.info/agendamientosalasdeaudiencia">:black_circle: Aplicación web</a>
 
 
 ---
 
 #### Agendamiento Audiencias en Estaciones de Policia
 
-- [:black_circle: Aplicación web](https://www.cdspbaq.info/agendaraudienciasestaciones)
+- <a rel="noopener" target="_blank" href="https://www.cdspbaq.info/agendaraudienciasestaciones">:black_circle: Aplicación web</a>
 
 
 
