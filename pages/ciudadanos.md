@@ -37,5 +37,13 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 - [:black_circle: Aplicación web](https://www.cdspbaq.info/audienciasprogramadasenestacionesdepolicia)
 
 
+---
+
+## Otros enlaces de interés
+
+#### Vigilancias Administrativas
+
+- [:black_circle: Aplicación web](https://vigilancias.ramajudicial.gov.co/inicio)
+
 
 [Volver al inicio]({{ '/' | relative_url }})
