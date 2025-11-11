@@ -43,6 +43,12 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 ## Otros enlaces de interés
 
+#### Consulta de grabaciones de audiencias publicas
+
+- <a rel="noopener" target="_blank" href="https://sistemaaudiencias.ramajudicial.gov.co/Grabaciones/public">:eye_speech_bubble: Aplicación web</a>
+
+---
+
 #### Vigilancias Administrativas
 
 - <a rel="noopener" target="_blank" href="https://vigilancias.ramajudicial.gov.co/inicio">:eye_speech_bubble: Aplicación web</a>
