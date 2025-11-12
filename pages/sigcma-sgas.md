@@ -44,14 +44,14 @@ title: "SIGCMA - SGAS"
 ---
 ## Preguntas, quejas, reclamos, solicitudes y felicitaciones entre otras encuentas
 
-- [PQRSF](https://forms.office.com/r/MtpidGDsFp)
-- [Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
+- [:interrobang: PQRSF](https://forms.office.com/r/MtpidGDsFp)
+- [:heavy_check_mark: Encuesta de satisfacción del usuario](https://forms.office.com/r/4qyUE6aXfF)
 - [Compromiso antisoborno](https://forms.office.com/pages/responsepage.aspx?id=mLosYviA80GN9Y65mQFZi4BLcGBxt91JrVdIn9tTRp9UQzBWRE5WMFpJNUFDUzhHRFZJRTJSUEpaWC4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl)
 
 ---
 
 ## Canal de Denuncias - SGAS
-- [Canal de Denuncias - Sistema de Gestión Antisoborno](https://www.ramajudicial.gov.co/portal/atencion-al-usuario/pqr)
+- [:speaking_head: Canal de Denuncias - Sistema de Gestión Antisoborno](https://www.ramajudicial.gov.co/portal/atencion-al-usuario/pqr)
 
 ---
 
