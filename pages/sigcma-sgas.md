@@ -41,6 +41,6 @@ title: "SIGCMA - SGAS"
 - [2do Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgAEnpIqBSOcQoxLbQbkmoaIAQc9lu_S2vk-X_-OJHHpEQ4?e=aEkUjC)
 - [3er Trimestre](https://etbcsj-my.sharepoint.com/:f:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IgANMX0ZwXaZQatxl-aDrGM2AbV4DoxqoR5rN_Myi3QKZTc?e=KpDEnd)
 
-{% include footer.html %}
+{% include pqrsf.html %}
 
 [Volver al inicio]({{ '/' | relative_url }})
