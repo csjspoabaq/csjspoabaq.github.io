@@ -53,6 +53,5 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 - <a rel="noopener" target="_blank" href="https://vigilancias.ramajudicial.gov.co/inicio">:eye_speech_bubble: Aplicación web</a>
 
-{% include pqrsf.html %}
 
 [Volver al inicio]({{ '/' | relative_url }})
