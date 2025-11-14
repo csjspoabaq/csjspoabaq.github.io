@@ -10,8 +10,9 @@ title: "SIGCMA - SGAS"
 
 ---
 
-[expand]
+
 ## :dart: Plataforma Estratégica
+[expand]
 - [Misión](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/mision)
 - [Visión](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/vision)
 - [Objetivos de calidad](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/objetivos-de-calidad)
