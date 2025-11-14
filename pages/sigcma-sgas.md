@@ -10,9 +10,8 @@ title: "SIGCMA - SGAS"
 
 ---
 
-
 ## :dart: Plataforma Estratégica
-[expand]
+
 - [Misión](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/mision)
 - [Visión](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/vision)
 - [Objetivos de calidad](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/objetivos-de-calidad)
@@ -20,7 +19,6 @@ title: "SIGCMA - SGAS"
 - [Valores](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/valores)
 - [Principios](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/principios)
 - [**Mapa de procesos**](https://www.ramajudicial.gov.co/web/sistema-integrado-gestion-de-la-calidad-y-el-medio-ambiente/mapa-de-procesos)   
-[/expand]
 
 ---
 ## :chart_with_upwards_trend: Planes de Acción
