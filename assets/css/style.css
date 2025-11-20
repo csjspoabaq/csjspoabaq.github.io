@@ -135,7 +135,8 @@ body {
 .subnav-content {
   display: none;
   position: absolute;
-  right: 0;
+  margin: 0 auto;
+  border-radius: 4px;
   background-color: #003f75;
   width: 100%;
   z-index: 1;
