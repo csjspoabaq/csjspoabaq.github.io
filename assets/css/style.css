@@ -143,7 +143,7 @@ body {
 
 /* Style the subnav links */
 .subnav-content a {
-  float: right;
+  float: center;
   color: white;
   text-decoration: none;
 }
