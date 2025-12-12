@@ -1,13 +1,18 @@
-:root{
-  --primary-blue: #003f75;   /* Actualizado: nuevo azul primario solicitado */
-  --accent-yellow: #FFD100;  /* Rama Judicial - amarillo */
-  --accent-red: #EF3340;     /* Rama Judicial - rojo */
+:root {
+  --primary-blue: #003f75;
+  /* Actualizado: nuevo azul primario solicitado */
+  --accent-yellow: #FFD100;
+  /* Rama Judicial - amarillo */
+  --accent-red: #EF3340;
+  /* Rama Judicial - rojo */
   --bg-white: #FFFFFF;
   --text-dark: #222222;
   --muted: #666666;
 }
 
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
 body {
   height: 100%;
@@ -45,7 +50,8 @@ body {
 /* Ensure logo keeps proportions and fits */
 .site-logo {
   display: block;
-  max-height: 64px;   /* altura máxima */
+  max-height: 64px;
+  /* altura máxima */
   height: auto;
   width: auto;
   object-fit: contain;
@@ -63,7 +69,7 @@ body {
 .site-tagline {
   margin: 0;
   font-size: 0.875rem;
-  color: rgba(255,255,255,0.9);
+  color: rgba(255, 255, 255, 0.9);
 }
 
 /* Navigation */
@@ -86,10 +92,58 @@ body {
 
 .site-nav a:hover,
 .site-nav a:focus,
-.subnav:hover .subnavbtn{
+.subnav:hover .subnavbtn {
   /*background: rgba(255,255,255,0.08);*/
   outline: none;
 }
+
+/* Hamburger icon */
+.site-nav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 720px) {
+  .site-nav ul {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    margin-top: 3rem;
+    /* Push menu down below icon */
+  }
+
+  .site-nav.responsive ul {
+    display: flex;
+  }
+
+  .site-nav.responsive {
+    position: relative;
+  }
+
+  .site-nav .icon {
+    float: right;
+    display: block;
+    color: white;
+    font-size: 1.5rem;
+    padding: 14px 16px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .header-inner {
+    align-items: flex-start;
+    /* Ensure logo stays top-left */
+    flex-wrap: wrap;
+    /* Allow wrapping */
+  }
+
+  .navbar {
+    width: 100%;
+    /* Take full width on mobile */
+  }
+}
+
 /*inicio */
 .navbar {
   overflow: hidden;
@@ -159,6 +213,7 @@ body {
 .subnav:hover .subnav-content {
   display: block;
 }
+
 /* fin */
 
 /* Accent examples: buttons or links */
@@ -191,9 +246,20 @@ footer {
 
 /* Responsive adjustments */
 @media (max-width: 720px) {
-  .header-inner { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
-  .site-nav ul { flex-wrap: wrap; gap: 0.5rem; }
-  .site-logo { max-height: 48px; }
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .site-nav ul {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .site-logo {
+    max-height: 48px;
+  }
 }
 
 .container {
@@ -207,6 +273,7 @@ footer {
   flex: 3;
   padding: 2em;
 }
+
 .sidebar {
   flex: 1;
   padding: 2em;
@@ -214,25 +281,37 @@ footer {
   border-left: 1px solid #e0e0e0;
   min-width: 220px;
 }
+
 .sidebar h2 {
   font-size: 1.1em;
   margin-bottom: 1em;
 }
+
 .sidebar ul {
   list-style: none;
   padding-left: 0;
 }
+
 .sidebar ul li {
   margin-bottom: 0.75em;
 }
+
 .sidebar a {
   color: #007acc;
   text-decoration: none;
 }
+
 .sidebar a:hover {
   text-decoration: underline;
 }
+
 @media (max-width: 800px) {
-  .container { flex-direction: column; }
-  .sidebar { border-left: none; border-top: 1px solid #e0e0e0; }
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    border-left: none;
+    border-top: 1px solid #e0e0e0;
+  }
 }

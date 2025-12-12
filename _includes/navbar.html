@@ -1,19 +1,20 @@
-<nav class="site-nav navbar" aria-label="Navegación principal">
+<nav class="site-nav navbar" id="myTopnav" aria-label="Navegación principal">
     <ul>
         <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
         <li>
             <!-- <a href="{{ '/pages/servicios' | relative_url }}">Servicios</a></li> -->
             <div class="subnav">
-                <button class="subnavbtn" onclick="location.href='/pages/servicios'">Servicios<i class="fa fa-caret-down"></i></button>
-                    <div class="subnav-content">
-                        <a href="{{ '/pages/despachos' | relative_url }}">Despachos judicial</a>
-                        <a href="{{ '/pages/ciudadanos' | relative_url }}">Ciudadanos</a>
+                <button class="subnavbtn" onclick="location.href='/pages/servicios'">Servicios<i
+                        class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="{{ '/pages/despachos' | relative_url }}">Despachos judicial</a>
+                    <a href="{{ '/pages/ciudadanos' | relative_url }}">Ciudadanos</a>
                 </div>
             </div>
         </li>
         <li>
             <div class="subnav">
-            <button class="subnavbtn">Información<i class="fa fa-caret-down"></i></button>
+                <button class="subnavbtn">Información<i class="fa fa-caret-down"></i></button>
                 <div class="subnav-content">
                     <a href="{{ '/pages/contacto' | relative_url }}">Contactos</a>
                     <a href="{{ '/pages/directorio' | relative_url }}">Directorio judicial</a>
@@ -21,15 +22,30 @@
                 </div>
             </div>
         </li>
-        
-        
+
+
         <li>
             <div class="subnav">
-                <button class="subnavbtn" onclick="location.href='/pages/sigcma-sgas'">SIGCMA/SGAS<i class="fa fa-caret-down"></i></button>
-                    <div class="subnav-content">
-                        <a href="{{ '/pages/sigcma-sgas/capacitacion' | relative_url }}">Capacitación</a>
+                <button class="subnavbtn" onclick="location.href='/pages/sigcma-sgas'">SIGCMA/SGAS<i
+                        class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="{{ '/pages/sigcma-sgas/capacitacion' | relative_url }}">Capacitación</a>
                 </div>
             </div>
         </li>
     </ul>
+    <a href="javascript:void(0);" class="icon" onclick="toggleMenu()">
+        &#9776;
+    </a>
 </nav>
+
+<script>
+    function toggleMenu() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "site-nav navbar") {
+            x.className += " responsive";
+        } else {
+            x.className = "site-nav navbar";
+        }
+    }
+</script>
