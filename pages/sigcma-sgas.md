@@ -56,4 +56,9 @@ title: "SIGCMA - SGAS"
 
 ---
 
+## Reporte de acciones gestión
+- <a rel="noopener" target="_blank" href="https://forms.office.com/r/maqbhPMjpp">:speaking_head: Reporte de Acción Preventiva, Correctiva y de Mejora</a>
+---
+
+
 [Volver al inicio]({{ '/' | relative_url }})
