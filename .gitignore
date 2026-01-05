@@ -164,4 +164,9 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+#Visual studio project
+.vs/*
+*.vsidx
+*.slnx
+
 # End of https://www.toptal.com/developers/gitignore/api/jekyll,node,git
