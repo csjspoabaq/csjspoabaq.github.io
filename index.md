@@ -4,6 +4,7 @@ title: "Inicio"
 ---
 
 # Centro de Servicios Judiciales - SPOA Barranquilla
+<p>![](https://komarev.com/ghpvc/?username=csjspoabaq&color=grey)</p>
 
 Bienvenido a la página alterna del Centro de Servicios Judiciales del SPOA de Barranquilla.
 
