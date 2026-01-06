@@ -8,6 +8,8 @@ title: "Servicios"
 
 El Centro de Servicios Judiciales - SPOA Barranquilla ofrece los siguientes servicios:
 
+[Directorio de Correos](https://app.powerbi.com/view?r=eyJrIjoiMjllZTNjNGYtNjYzMi00ZjUzLTgyMGYtNzE0OWNlZjM0YTY2IiwidCI6IjYyMmNiYTk4LTgwZjgtNDFmMy04ZGY1LThlYjk5OTAxNTk4YiIsImMiOjR9)
+
 ---
 
 <iframe
