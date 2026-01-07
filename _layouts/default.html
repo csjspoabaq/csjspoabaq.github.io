@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="current-month" content="{{ site.time | date: '%Y-%m' }}">
     <title>{{ page.title | default: site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -19,7 +18,6 @@
     </main>
     {% include sidebar.html %}
  </div> 
-<script src="{{ '/assets/js/view-counter.js' | relative_url }}"></script>
 {% include footer.html %}
 
 </body>
