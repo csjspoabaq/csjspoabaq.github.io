@@ -9,7 +9,7 @@ Bienvenido al sitio oficial del **Centro de Servicios de los Juzgados Penales de
 
 El Centro de Servicios tiene como objetivo principal **optimizar la administración de justicia penal** mediante la centralización de funciones administrativas y de apoyo, permitiendo que los jueces se concentren en la labor jurisdiccional.
 
-Alguna de nuestras funciones son:
+Algunas de nuestras funciones son:
 
 - Recepción y distribución de documentos judiciales.
 - Gestión de notificaciones y citaciones.
