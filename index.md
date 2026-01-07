@@ -36,7 +36,7 @@ O para contactarnos
 ---
 
 
-### Publicaciones
+## Publicaciones y noticias
 ---
 <ul>
   {% for post in site.posts %}
@@ -48,13 +48,13 @@ O para contactarnos
 
 ---
 
-## 🧭 Ubicación
+### 🧭 Ubicación
 
 Puedes encontrarnos en el **Antiguo Edificio Telecom Piso 2**, ubicado en el centro de Barranquilla, con fácil acceso desde la calle 38 o carrera 44.
 
 ---
 
-## 🤝 Comprometidos con la Justicia
+### 🤝 Comprometidos con la Justicia
 
 El Centro de Servicios trabaja con compromiso, eficiencia y transparencia para garantizar el acceso oportuno a la justicia penal en Barranquilla.
 
