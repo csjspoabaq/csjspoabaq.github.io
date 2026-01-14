@@ -13,6 +13,12 @@ A continuacion, encontraras los diferentes servicios virtuales de interes para l
 
 ---
 
+#### Consulta de audiencias preliminares programadas
+
+- <a rel="noopener" target="_blank" href="https://www.cdspbaq.info/programaciondeaudiencias">:black_circle: Aplicación web</a>
+
+---
+
 #### Consulta del reparto a juzgados de conocimiento
 
 - <a rel="noopener" target="_blank" href="https://sites.google.com/view/repartoconocimientos?usp=sharing">:black_circle: Aplicación web</a>
