@@ -30,10 +30,11 @@ title: "SIGCMA - SGAS"
 - [1er Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA_I+Trim.xlsx/36be37dc-5b63-2d09-2de3-cfd369bdcb6e?t=1760459034701)
 - [2do Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025_II+Tri.xlsx/16aa424b-cfb9-a8f4-4511-03f0204e8ac5?t=1760459071910)
 - [3er Trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Plan+de+accion+despachos+judiciales+-+Centro+de+Servicios+SPOA+2025_III+Tri.xlsx/aace118b-13b7-fa4c-bc3c-73aa6219e327?t=1761140497193)
+- [4to Trimestre](https://etbcsj-my.sharepoint.com/:x:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IQBBSS_sJqudRIkr94t6WHaFATlMcAacOxrQO5ll7bq-jVs?e=ckf2eJ)
 
 ---
 ## :clipboard: Matriz de riesgos
-- [Matriz de riesgos 3er trimestre](https://www.ramajudicial.gov.co/documents/8957139/0/Matriz%2Bde%2BRiesgos%2BJudiciales%2BBarranquilla_SPOA_2025_III+Trim.xlsx/96412b77-d198-d81c-ad8d-6ca7518476be?t=1761140547077)
+- [Matriz de riesgos 4to trimestre](https://etbcsj-my.sharepoint.com/:x:/g/personal/erossiap_cendoj_ramajudicial_gov_co/IQB0X943LQs6RZ_JiRbhAzTgAasV6EGIGMKDbxPcfvcUcBc?e=ofQDWK)
 
 ---
 ## :chart_with_upwards_trend: Indicadores
